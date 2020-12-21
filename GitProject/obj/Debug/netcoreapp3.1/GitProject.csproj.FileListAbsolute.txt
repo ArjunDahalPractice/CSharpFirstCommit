@@ -1,0 +1,13 @@
+C:\Users\arjun\source\repos\GitProject\GitProject\bin\Debug\netcoreapp3.1\GitProject.exe
+C:\Users\arjun\source\repos\GitProject\GitProject\bin\Debug\netcoreapp3.1\GitProject.deps.json
+C:\Users\arjun\source\repos\GitProject\GitProject\bin\Debug\netcoreapp3.1\GitProject.runtimeconfig.json
+C:\Users\arjun\source\repos\GitProject\GitProject\bin\Debug\netcoreapp3.1\GitProject.runtimeconfig.dev.json
+C:\Users\arjun\source\repos\GitProject\GitProject\bin\Debug\netcoreapp3.1\GitProject.dll
+C:\Users\arjun\source\repos\GitProject\GitProject\bin\Debug\netcoreapp3.1\GitProject.pdb
+C:\Users\arjun\source\repos\GitProject\GitProject\obj\Debug\netcoreapp3.1\GitProject.csprojAssemblyReference.cache
+C:\Users\arjun\source\repos\GitProject\GitProject\obj\Debug\netcoreapp3.1\GitProject.AssemblyInfoInputs.cache
+C:\Users\arjun\source\repos\GitProject\GitProject\obj\Debug\netcoreapp3.1\GitProject.AssemblyInfo.cs
+C:\Users\arjun\source\repos\GitProject\GitProject\obj\Debug\netcoreapp3.1\GitProject.csproj.CoreCompileInputs.cache
+C:\Users\arjun\source\repos\GitProject\GitProject\obj\Debug\netcoreapp3.1\GitProject.dll
+C:\Users\arjun\source\repos\GitProject\GitProject\obj\Debug\netcoreapp3.1\GitProject.pdb
+C:\Users\arjun\source\repos\GitProject\GitProject\obj\Debug\netcoreapp3.1\GitProject.genruntimeconfig.cache
